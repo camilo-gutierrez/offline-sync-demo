@@ -1,0 +1,14 @@
+name: offline_sync_demo
+description: >-
+  Patrón offline-first de cola de subida con reintentos, backoff exponencial,
+  dead-letter y borrado local tras subida exitosa. Dart puro, testeable, sin
+  dependencias de terceros ni propiedad intelectual de empresas.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^4.0.0
