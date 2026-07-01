@@ -1,5 +1,7 @@
 # offline-sync-demo
 
+[![CI](https://github.com/camilo-gutierrez/offline-sync-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/camilo-gutierrez/offline-sync-demo/actions/workflows/ci.yml)
+
 Patrón **offline-first** de cola de subida de archivos, reutilizable y verificable, extraído de problemas reales de apps móviles con conectividad intermitente. Dart puro, con tests, **sin propiedad intelectual de terceros**.
 
 > Implementación genérica y original del patrón. No contiene código de ningún producto de empresa.
